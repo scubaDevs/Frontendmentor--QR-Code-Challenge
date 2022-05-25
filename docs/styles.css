@@ -25,6 +25,7 @@ body{
     min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
     position: relative;
+    font-family: 'Outfit', sans-serif;
 }
 
 .main_container{
