@@ -53,15 +53,15 @@ body{
    
     color:hsl(218, 44%, 22%);
     text-align:center;
-    width: 230px;
+    width: 255px;
     height: 43px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-weight: 700;
-
+    font-size: 21px;
 }
 .paragraph_container{
 
-    width:230px;
+    width:255px;
     height: auto;
     text-align: center;
     font-size: 15px;
