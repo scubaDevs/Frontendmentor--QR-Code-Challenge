@@ -48,6 +48,8 @@ body{
     margin:15px;
     width: 262px;
     height: 263px;
+    border-radius:10px;
+    
 }
 .title_container{
    
